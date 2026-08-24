@@ -47,6 +47,14 @@ firewheel 哪吒形象二轮自平衡车
 
 * 按按钮，响 2 声，再按一下，响 4 声，再响一声，进入待机模式
 
+# 框图
+
+![block](doc/image/block.jpg)
+
+# 接线图
+
+![sch](doc/image/sch.jpg)
+
 # 时序
 
 ![timing plot](doc/image/timing.png)
